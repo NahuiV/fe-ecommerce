@@ -1,0 +1,42 @@
+.navBar {
+    margin: 0;
+    margin-left: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    background-color:black;
+    justify-content: space-between;
+}
+
+.logo{
+    margin-left: 10px;
+    font-size: 30px;
+    color: white;
+}
+
+.logo-2{
+    margin-right: 10px;
+    font-size: 30px;
+    color: white;
+}
+
+.routes{
+    display: flex;
+}
+
+.ul{
+    display: flex;
+    margin: 25px;
+    justify-content: center;
+}
+
+.li{
+    display: inline;
+    margin: 8px;
+    color: white;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}
